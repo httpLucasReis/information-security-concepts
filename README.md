@@ -33,6 +33,6 @@ Example: When you send an email the identity you provide is taken to be true; th
 
 ## Factors
 
-- Factors are used to to authenticate any people or something.
+- Factors are used to authenticate any people or something.
 - They are "Something you know", "Something you have", "Something you do" and "Where you are"
 - The more factors you use, the more positive your results will be.
