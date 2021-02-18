@@ -36,3 +36,34 @@ Example: When you send an email the identity you provide is taken to be true; th
 - Factors are used to authenticate any people or something.
 - They are "Something you know", "Something you have", "Something you do" and "Where you are"
 - The more factors you use, the more positive your results will be.
+
+### Something you know
+
+- Include passwords or PINs.
+
+### Something you are is?
+
+- Based on the relatively unique physical attributes of an individual. often referred to as biometrics.
+- Biometrics can include simple attributes such as height, weight, hair color, or eye color. These aren't usually distinctive enough to make very secure identifiers.
+- They are stronger than passwords.
+
+### Something you have?
+
+- Based on a physical possession, although it can into some logical concepts.
+- Common examples are Automatic Teller Machine (ATM) cards, state or federally issued identity cards, or software-based security tokens
+
+### Something you do?
+
+- Sometimes considered a variation of something you are, is a factor based on the actions or behaviors of an individual.
+
+### Where you are?
+
+- Geographically based authentication factor.
+- Requires a person to be present in a specific location.
+
+## Multifactor Authentication
+
+- Use one or more of the factores above.
+- When you're using only two factors, this practice is also sometimes called two-factor authentication.
+- Examples: ATM cards, writing checks.
+- Depending on the factors selected, you can assemble stronger or weaker multifactor authentication schemes particular to each situation.
