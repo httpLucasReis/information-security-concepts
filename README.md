@@ -56,7 +56,7 @@ Example: When you send an email the identity you provide is taken to be true; th
 
 - Sometimes considered a variation of something you are, is a factor based on the actions or behaviors of an individual.
 
-### Where you are?
+### Where are you?
 
 - Geographically based authentication factor.
 - Requires a person to be present in a specific location.
