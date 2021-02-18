@@ -41,22 +41,22 @@ Example: When you send an email the identity you provide is taken to be true; th
 
 - Include passwords or PINs.
 
-### Something you are is?
+### Something you are is
 
 - Based on the relatively unique physical attributes of an individual. often referred to as biometrics.
 - Biometrics can include simple attributes such as height, weight, hair color, or eye color. These aren't usually distinctive enough to make very secure identifiers.
 - They are stronger than passwords.
 
-### Something you have?
+### Something you have
 
 - Based on a physical possession, although it can into some logical concepts.
 - Common examples are Automatic Teller Machine (ATM) cards, state or federally issued identity cards, or software-based security tokens
 
-### Something you do?
+### Something you do
 
 - Sometimes considered a variation of something you are, is a factor based on the actions or behaviors of an individual.
 
-### Where are you?
+### Where you are
 
 - Geographically based authentication factor.
 - Requires a person to be present in a specific location.
