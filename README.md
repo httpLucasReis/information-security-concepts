@@ -67,3 +67,35 @@ Example: When you send an email the identity you provide is taken to be true; th
 - When you're using only two factors, this practice is also sometimes called two-factor authentication.
 - Examples: ATM cards, writing checks.
 - Depending on the factors selected, you can assemble stronger or weaker multifactor authentication schemes particular to each situation.
+
+## Mutual Authentication 
+- It is a mechanism in which both parties in a transaction authenticate each other.
+- Mutual authenticate often relies on digital certificates.
+
+Example: The client authenticates to the server and the server authenticates to the client.
+
+- In cases where you don't perform mutual authentications, you leave yourself open to impersonation attacks, often referred to as "man-in-the-middle attacks".
+- In the man-in-the-middle-attack, the attacker inserts himself between the client and server.
+- This is typically possible because the attacker needs to subvert or falsify authentication only from the client to the server. 
+- If you implement a Mutual authentication,  this becomes a considerably more difficult attack because the attacker would have to falsify two different Authentications
+
+## Common identification and authentication methods
+
+### Passwords
+- Passwords only a single factor of authentication, but they can represent a relatively high level of security when constructed and implemented properly.
+- 1234567 -> easly cracked.
+- $$@!0n!21 -> harder to crack.
+- To constructing strong passwords, you also need to practice good password hygiene.
+
+  #### Tips
+    - Don't write your password down and post it under your keyboard or on your monitor.
+    - Use password managers.
+    - Don't use the same password on many sites.
+
+### Biometrics
+- You can use them to verify the identity claim someone has put forth, or you can reverse the process and use biometrics as a method of identification.
+- You can also save a copoy of a fingerprint in the system, then you can use the minutiae later to match the characteristic to the user.
+- This process is commonly used by law enforcement agencies to idenfity the owner figerprints left on various objects.
+
+  #### Characteristics of Biometric Factors
+    - Universality, uniqueness, permanence, collectability, performance, acceptability, and circumvention.
