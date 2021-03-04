@@ -10,6 +10,29 @@
 
 [What is information security? Definition, principles, and jobs](https://www.csoonline.com/article/3513899/what-is-information-security-definition-principles-and-jobs.html)
 
+## five Pillars of Information Assurance Framework.
+
+### Confidentiality
+
+- This is the assurance that information is not disclosed to unauthorized individuals, groups, processes, or devices. Highly confidential data must be encrypted so third parties cannot easily decrypt it. Only those who are authorized to view the information are allowed access.
+
+### Integrity
+
+- The accuracy and completeness of vital information must be safeguarded. Data should not be altered or destroyed during transmission and storage. This involves making sure that an information system is not tampered with by unauthorized entities. Policies should be in place so that users know to properly utilize their system.
+
+### Availability
+
+- This means that authorized users have timely and easy access to information services. IT resources and infrastructure should remain robust and fully-functional at all times even during adverse conditions, such as database conundrums or fall-overs. It involves protecting against malicious codes, hackers, and other threats that could block access to the information system.
+
+### Authenticity
+
+- This security measure is designed to establish the validity of a transmission, message, or originator, or a means of verifying an individual's authorization to receive specific information. Authentication prevents impersonation and requires users to confirm their identities before being allowed access to systems and resources. This includes user names, passwords, emails, biometrics, and others
+
+### Non-Repudiation
+
+- This attribute assures the sender of data is provided with proof of delivery and the recipient is provided with proof of the sender's identity, so neither party can deny sending, receiving, or accessing the data. Security principles should be used to prove identities and to validade the communication process.
+
+
 ## Identification and Authentication
 
 - Identification makes a claim about what someone or something is, and authentication establishes whether this claim is true.
